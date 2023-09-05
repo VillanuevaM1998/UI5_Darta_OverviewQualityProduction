@@ -1,0 +1,9 @@
+# This is the resource bundle for zzoverviewqualprod.zzoverviewqualprod
+
+#Texts for manifest.json
+
+#XTIT: Application name
+appTitle=Overview Quality/Production
+
+#YDES: Application description
+appDescription=Overview Quality/Production
